@@ -33,11 +33,11 @@
       "statusBadge": true
     },
     {
-      "name": "Google",
-      "url": "https://google.com",
-      "description": "Google",
+      "name": "Caprover",
+      "url": "https://captain.f97.xyz/",
+      "description": "Caprover",
       "admin": "",
-      "icon": "ant-design:google-circle-filled",
+      "icon": "bpmn-service",
       "statusBadge": true
     }
     
