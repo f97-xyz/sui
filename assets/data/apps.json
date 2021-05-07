@@ -26,7 +26,7 @@
     },
     {
       "name": "Zoho Mail",
-      "url": "https://mail.zoho.com/zm/#mail/folder/inbox",
+      "url": "https://mail.zoho.com",
       "description": "email with my domain",
       "admin": "",
       "icon": "bx-bx-mail-send",
