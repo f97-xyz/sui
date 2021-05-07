@@ -8,7 +8,7 @@
     {
       "name": "Cloudflare",
       "url": "dash.cloudflare.com",
-      "icon": "vscode-icons:file-type-ovpn"
+      "icon": "bx-bx-cloud-drizzle"
     },
     {
       "name": "Gmail",
@@ -16,9 +16,9 @@
       "icon": "mdi-google"
     },
     {
-      "name": "Netflix",
-      "url": "netflix.com",
-      "icon": "mdi-netflix"
+      "name": "News",
+      "url": "baomoi.com",
+      "icon": "majesticons-newspaper-line"
     },
     {
       "name": "Github",
