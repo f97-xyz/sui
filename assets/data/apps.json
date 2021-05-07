@@ -15,7 +15,16 @@
       "admin": "",
       "icon": "vscode-icons:folder-type-mysql",
       "statusBadge": true
-    }, {
+    },
+    {
+      "name": "Bitwarden",
+      "url": "https://bit.f97.xyz",
+      "description": "password manager",
+      "admin": "",
+      "icon": "simple-icons:bitwarden",
+      "statusBadge": true
+    },
+    {
       "name": "Google",
       "url": "https://google.com",
       "description": "Google",
