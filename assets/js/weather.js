@@ -13,9 +13,9 @@ var tempUnit = 'C';
 
 // Here you can change your position
 // You can use https://www.latlong.net/ to get it! 
-latitude = -27.577300;
-longitude = 153.087290;
-locale = 'Brisbane';
+latitude = 15.572840;
+longitude = 108.470978;
+locale = 'Tam Kỳ';
 
 const KELVIN = 273.15;
 // Use your own key for the Weather, Get it here: https://openweathermap.org/
