@@ -7,8 +7,8 @@
     },
     {
       "name": "Cloudflare",
-      "url": "https://dash.cloudflare.com/",
-      "icon": "logos-cloudflare"
+      "url": "dash.cloudflare.com",
+      "icon": "vscode-icons:file-type-ovpn"
     },
     {
       "name": "Gmail",
