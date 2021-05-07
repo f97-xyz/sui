@@ -26,7 +26,7 @@
     },
     {
       "name": "Zoho Mail",
-      "url": "https://mail.zoho.com",
+      "url": "https://mail.zoho.com/zm/",
       "description": "email with my domain",
       "admin": "",
       "icon": "bx-bx-mail-send",
@@ -34,15 +34,15 @@
     },
     {
       "name": "Caprover",
-      "url": "https://captain.f97.xyz/",
+      "url": "https://captain.f97.xyz",
       "description": "Caprover",
       "admin": "",
       "icon": "bpmn-service",
       "statusBadge": true
     },
     {
-      "name": "Notes",
-      "url": "https://note.f97.xyz/",
+      "name": "Note",
+      "url": "https://note.f97.xyz",
       "description": "note is note",
       "admin": "",
       "icon": "fluent-comment-note-24-filled",
