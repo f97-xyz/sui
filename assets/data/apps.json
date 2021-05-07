@@ -25,6 +25,14 @@
       "statusBadge": true
     },
     {
+      "name": "Zoho Mail",
+      "url": "https://mail.zoho.com/zm/#mail/folder/inbox",
+      "description": "email with my domain",
+      "admin": "",
+      "icon": "bx-bx-mail-send",
+      "statusBadge": true
+    },
+    {
       "name": "Google",
       "url": "https://google.com",
       "description": "Google",
