@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "name": "phpMyAdmin",
+      "url": "https://mysql.f97.xyz",
+      "description": "phpMyAdmin",
+      "admin": "",
+      "icon": "database-search",
+      "statusBadge": true
+    },
+    {
+      "name": "MariaDB",
+      "url": "https://maria-db.f97.xyz",
+      "description": "MariaDB",
+      "admin": "",
+      "icon": "language-php",
+      "statusBadge": true
+    }
+  ]
+}

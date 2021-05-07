@@ -1,0 +1,83 @@
+{
+    "bookmarks" : [
+      {
+        "category": "Media",
+        "links": [
+          {
+            "name": "Linus Tech Tips",
+            "url": "https://www.youtube.com/c/LinusTechTips/videos"
+          },
+          {
+            "name": "Boulder Creek",
+            "url": "https://www.youtube.com/c/LukeTowan/videos"
+          },
+          {
+            "name": "Achievement Hunter",
+            "url": "https://achievementhunter.roosterteeth.com"
+          },
+          {
+            "name": "Tom Scott",
+            "url": "https://www.youtube.com/c/TomScottGo/videos"
+          },
+          {
+            "name": "Kurzgesagt",
+            "url": "https://www.youtube.com/c/inanutshell/videos"
+          },
+          {
+            "name": "SmarterEveryDay",
+            "url": "https://www.youtube.com/c/smartereveryday/videos"
+          }
+        ]
+      },
+      {
+        "category": "Reddit",
+        "links": [
+          {
+            "name": "r/wallpapers",
+            "url": "https://www.reddit.com/r/wallpapers"
+          },
+          {
+            "name": "r/startpages",
+            "url": "https://www.reddit.com/r/startpages"
+          },
+          {
+            "name": "r/selfhosted",
+            "url": "https://www.reddit.com/r/selfhosted"
+          },
+          {
+            "name": "r/games",
+            "url": "https://www.reddit.com/r/games"
+          },
+          {
+            "name": "r/brisbane",
+            "url": "https://www.reddit.com/r/brisbane"
+          },
+          {
+            "name": "r/australia",
+            "url": "https://www.reddit.com/r/australia"
+          }
+        ]
+      },
+      {
+        "category": "Other",
+        "links": [
+          {
+            "name": "Whirlpool",
+            "url": "https://forums.whirlpool.net.au/"
+          },
+          {
+            "name": "BOM Radar",
+            "url": "http://www.bom.gov.au/products/IDR663.loop.shtml"
+          },
+          {
+            "name": "Thunderstorm Tracker",
+            "url": "http://www.bom.gov.au/qld/forecasts/brisbane-thunderstorms.shtml"
+          },
+          {
+            "name": "Lightning Tracker",
+            "url": "https://map.blitzortung.org/#8.39/-27.631/153.226"
+          }
+        ]
+      }
+    ]
+}
