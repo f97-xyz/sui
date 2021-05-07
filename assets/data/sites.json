@@ -6,9 +6,9 @@
       "icon": "mdi-email"
     },
     {
-      "name": "Reddit",
-      "url": "reddit.com",
-      "icon": "mdi-reddit"
+      "name": "Cloudflare",
+      "url": "https://dash.cloudflare.com/",
+      "icon": "logos-cloudflare"
     },
     {
       "name": "Gmail",
