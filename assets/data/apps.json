@@ -14,7 +14,7 @@
       "description": "MariaDB",
       "admin": "",
       "icon": "vscode-icons:folder-type-mysql",
-      "statusBadge": true
+      "statusBadge": false
     },
     {
       "name": "Bitwarden",
@@ -30,7 +30,7 @@
       "description": "email with my domain",
       "admin": "",
       "icon": "bx-bx-mail-send",
-      "statusBadge": true
+      "statusBadge": false
     },
     {
       "name": "Caprover",
@@ -38,7 +38,7 @@
       "description": "Caprover",
       "admin": "",
       "icon": "bpmn-service",
-      "statusBadge": true
+      "statusBadge": false
     },
     {
       "name": "Note",
@@ -46,7 +46,7 @@
       "description": "note is note",
       "admin": "",
       "icon": "fluent-comment-note-24-filled",
-      "statusBadge": true
+      "statusBadge": false
     }
   ]
 }
