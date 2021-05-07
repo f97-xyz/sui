@@ -39,7 +39,14 @@
       "admin": "",
       "icon": "bpmn-service",
       "statusBadge": true
+    },
+    {
+      "name": "Notes",
+      "url": "https://note.f97.xyz/",
+      "description": "note is note",
+      "admin": "",
+      "icon": "fluent-comment-note-24-filled",
+      "statusBadge": true
     }
-    
   ]
 }
