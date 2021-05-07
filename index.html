@@ -22,6 +22,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.1/handlebars.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+  <script src="https://cdn.jsdelivr.net/gh/alfg/ping.js@0.2.2/dist/ping.min.js" type="text/javascript"></script>
 </head>
 <body>
   <main id="container" class="fade">
@@ -50,7 +51,7 @@
                 <span class="iconify icon" data-icon="{{icon}}"></span>
               </div>
               <div class="apps-text">
-                <span>{{#if statusBadge}}<status-indicator class="status-indicator" active pulse></status-indicator> {{/if}}{{name}}</span>
+                <span>{{#if statusBadge}}<status-indicator class="status-indicator" active pulse></status-indicator> {{/if}}{{name}}<span class="ping"/></span>
                 <span class="description" data-url="{{url}}" data-description="{{description}}">{{description}}</span>
               </div>
             </a>

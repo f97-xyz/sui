@@ -260,6 +260,20 @@ button:hover {
   text-transform: lowercase;
 }
 
+.sites-text span:nth-child(2n), .apps-text span.ping:nth-child(2n) {
+  color: var(--status-indicator-color-positive);
+  font-size: 0.5em;
+  text-transform: lowercase;
+  vertical-align: top;
+  margin-left: 2px;
+}
+.sites-text span:nth-child(2n), .apps-text span.ping.negative:nth-child(2n) {
+  color: var(--status-indicator-color-negative);
+  font-size: 0.5em;
+  text-transform: lowercase;
+  vertical-align: top;
+  margin-left: 2px;
+}
 /* BOOKMARKS */
 
 #links-container {
@@ -294,6 +308,8 @@ button:hover {
   color: var(--color-secondary);
   padding-left: 1em;
 }
+
+
 
 
 /* MOBILE */

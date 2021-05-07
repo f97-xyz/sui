@@ -5,7 +5,7 @@
       "url": "https://mysql.f97.xyz",
       "description": "phpMyAdmin",
       "admin": "",
-      "icon": "database-search",
+      "icon": "file-icons:cakephp-old",
       "statusBadge": true
     },
     {
@@ -13,8 +13,16 @@
       "url": "https://maria-db.f97.xyz",
       "description": "MariaDB",
       "admin": "",
-      "icon": "language-php",
+      "icon": "vscode-icons:folder-type-mysql",
+      "statusBadge": true
+    }, {
+      "name": "Google",
+      "url": "https://google.com",
+      "description": "Google",
+      "admin": "",
+      "icon": "ant-design:google-circle-filled",
       "statusBadge": true
     }
+    
   ]
 }

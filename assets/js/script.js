@@ -101,19 +101,15 @@ setTimeout(function () {
 }, 2000);
 
 function getStatus(url, selector) {
-    $.ajax(url)
-        .done(function (data, xhr, res) {
-            var status = res.status;
-            selector.find('.status-indicator').removeAttr('active').attr('positive', 'positive');
-        })
-        .fail(function (data, xhr, res) {
-            var status = res.status;
+    var p = new Ping();
+
+    p.ping(url, function(err, data) {
+        if(err) {
             selector.find('.status-indicator').removeAttr('active').attr('negative', 'negative');
-        })
-        .always(function (data, xhr, res) {
-            var status = res.status;
-            if (status === 200) {
-                selector.find('.status-indicator').removeAttr('active').attr('positive', 'positive');
-            }
-        });
+            selector.find('.ping').addClass( "negative" ).html(data);
+        } else {
+            selector.find('.status-indicator').removeAttr('active').attr('positive', 'positive');
+            selector.find('.ping').html(data);
+        }
+    });
 }

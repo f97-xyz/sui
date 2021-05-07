@@ -19,6 +19,6 @@ To use:
 Note:
 
  - No `,` at the end of the last app's line
- - Find the names  of icons to use at [Material Design Icons](https://materialdesignicons.com/)
+ - Find the names  of icons to use at [Material Design Icons](https://iconify.design/icon-sets/?query=sql/)
 
 ![Screenshot](screenshot.png)
