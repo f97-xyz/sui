@@ -26,9 +26,9 @@
       "icon": "mdi-github"
     },
     {
-      "name": "Spotify",
-      "url": "spotify.com",
-      "icon": "mdi-spotify"
+      "name": "Aapanel",
+      "url": "aapanel.com",
+      "icon": "fluent-dock-panel-left-48-filled"
     },
     {
       "name": "Twitch",
